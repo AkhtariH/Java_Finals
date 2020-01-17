@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="192fa2fa-eecf-4313-9a35-e992f1d8a813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WO0N5AuUjQagXkpkwEhspiU7pa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Store">
+    <configuration name="All in Store" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FullTimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.FullTimeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.OrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.StoreTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Store" />
+        <item itemvalue="JUnit.FullTimeTest" />
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.StoreTest" />
+        <item itemvalue="JUnit.OrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="192fa2fa-eecf-4313-9a35-e992f1d8a813" name="Default Changelist" comment="" />
+      <created>1579005290983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579005290983</updated>
+      <workItem from="1579005293775" duration="7527000" />
+      <workItem from="1579095112822" duration="1660000" />
+      <workItem from="1579113718357" duration="7132000" />
+      <workItem from="1579278959335" duration="2463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="199" key="#com.intellij.ide.util.MemberChooser" timestamp="1579115277150">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579015369425" />
+    <state x="711" y="199" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579115277150" />
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom" timestamp="1579281443053">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237520" />
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579281443053" />
+    <state width="1878" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579120498382" />
+    <state width="1398" height="307" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1579132506202" />
+    <state width="1398" height="307" key="GridCell.Tab.0.center" timestamp="1579281443052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237519" />
+    <state width="1398" height="307" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579281443052" />
+    <state width="1878" height="307" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579120498381" />
+    <state width="1398" height="307" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1579132506193" />
+    <state width="1398" height="307" key="GridCell.Tab.0.left" timestamp="1579281443052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237519" />
+    <state width="1398" height="307" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579281443052" />
+    <state width="1878" height="307" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579120498380" />
+    <state width="1398" height="307" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1579132506193" />
+    <state width="1398" height="307" key="GridCell.Tab.0.right" timestamp="1579281443052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237520" />
+    <state width="1398" height="307" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579281443052" />
+    <state width="1878" height="307" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579120498382" />
+    <state width="1398" height="307" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1579132506201" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1579043237522">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237522" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1579043237521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237521" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1579043237521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237521" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1579043237521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579043237521" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1579278959359">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579278959359" />
+    <state x="529" y="320" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579113719455" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1579005297202" />
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579006716292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1579006716292" />
+    <state x="492" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579015558468">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="492" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/-2560.-589.2560.1440@0.0.1440.900" timestamp="1579015558468" />
+    <state x="492" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1579008954059" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579117871824">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1579117871824" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Store$All_in_Store.ic" NAME="All in Store Coverage Results" MODIFIED="1579280881302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
