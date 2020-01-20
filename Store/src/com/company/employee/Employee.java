@@ -43,6 +43,7 @@ public abstract class Employee {
 
         return salary;
     }
+
     public int getEmployeeID() {
         return employeeID;
     }
